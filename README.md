@@ -1,0 +1,4 @@
+mobaxterm-plugins
+=================
+
+MobaXterm plugins
